@@ -1,0 +1,24 @@
+.root{
+  background-color: blueviolet;
+  height:100vh;
+  width: 100%;
+  color: red;
+  position: absolute;
+  float: right;
+}
+.header{
+  margin-left: 100px;
+  background-color: rgb(13, 15, 6);
+}
+.blogs{
+  background-color: blueviolet;
+  position: relative;
+  top: -30px;
+}
+.tittles{
+  color: blueviolet;
+  text-transform: uppercase;
+}
+.names{
+  text-transform: uppercase;
+}
